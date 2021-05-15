@@ -1,0 +1,2 @@
+# minero
+test
